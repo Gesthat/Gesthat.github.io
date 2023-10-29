@@ -4,12 +4,12 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
     text-align: right;
-    color: crimson;
+    color: rgb(23, 46, 193);
     font-family:sans-serif;
 }
 p {
 text-align: right;
 }
 em{
-    color:chartreuse;
+    color:rgb(193, 210, 33);
 }
